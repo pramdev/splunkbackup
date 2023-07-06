@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"pages/system.html\" type=\"html\" isVisible=\"False\" isDashboard=\"False\">\n    <label>Data Model Editor</label>\n</view>\n",
+"eai:type": "views",
+"name": "data_model_editor",
+"owner": "nobody",
+"sharing": "global"
+}

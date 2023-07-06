@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"pages/app.html\" type=\"html\" isDashboard=\"False\">\n    <label>Field Extractor</label>\n</view>",
+"eai:type": "views",
+"name": "field_extractor",
+"owner": "nobody",
+"sharing": "global"
+}

@@ -1,0 +1,7 @@
+{
+"eai:data": "<view isVisible=\"false\" template=\"builder.html\" isDashboard=\"False\" type=\"redirect\" target=\"report\">\n    <label>Display Report</label>\n</view>",
+"eai:type": "views",
+"name": "report_builder_print",
+"owner": "nobody",
+"sharing": "global"
+}

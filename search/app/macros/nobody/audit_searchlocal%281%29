@@ -1,0 +1,10 @@
+{
+"args": "filter",
+"definition": "search index=_audit action=search (id=* OR search_id=*) | eval search_id = if(isnull(search_id), id, search_id) | replace '*' with * in search_id | search $filter$",
+"disabled": "0",
+"eai:appName": "search",
+"eai:userName": "nobody",
+"name": "audit_searchlocal(1)",
+"owner": "nobody",
+"sharing": "app"
+}

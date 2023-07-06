@@ -1,0 +1,9 @@
+{
+"color": "none",
+"name": "proxy_logs",
+"owner": "admin",
+"priority": "1",
+"search": "index=eventgen_squid_proxy",
+"sharing": "user",
+"tags": "\n          "
+}

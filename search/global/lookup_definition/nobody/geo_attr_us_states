@@ -1,0 +1,7 @@
+{
+"fields_list": "state_name,state_fips,state_code",
+"filename": "geo_attr_us_states.csv",
+"name": "geo_attr_us_states",
+"owner": "nobody",
+"sharing": "global"
+}

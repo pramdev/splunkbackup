@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"pages/app.html\" type=\"html\" isVisible=\"False\" isDashboard=\"False\">\n    <label>Alert</label>\n</view>",
+"eai:type": "views",
+"name": "alert",
+"owner": "nobody",
+"sharing": "global"
+}

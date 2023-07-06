@@ -1,0 +1,7 @@
+{
+"communicate": "enabled",
+"name": "eventtype=ldap",
+"network": "enabled",
+"owner": "admin",
+"sharing": "user"
+}

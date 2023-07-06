@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view type=\"redirect\" target=\"pivot\" isDashboard=\"False\">\n    <label>Datasets</label>\n</view>",
+"eai:type": "views",
+"name": "data_model_explorer",
+"owner": "nobody",
+"sharing": "global"
+}

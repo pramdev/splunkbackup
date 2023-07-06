@@ -1,0 +1,9 @@
+{
+"color": "none",
+"name": "ldap",
+"owner": "admin",
+"priority": "1",
+"search": "source=\"bro_conn.json\" host=\"ldap\" index=\"windows\" sourcetype=\"_json\"",
+"sharing": "user",
+"tags": "\n          "
+}

@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"licensing/usage.html\" type=\"html\" isVisible=\"False\" isDashboard=\"False\">\n    <label>License Usage</label>\n</view>",
+"eai:type": "views",
+"name": "licenseusage",
+"owner": "nobody",
+"sharing": "app"
+}

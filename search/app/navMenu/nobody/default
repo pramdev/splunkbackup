@@ -1,0 +1,6 @@
+{
+"eai:data": "<nav search_view=\"search\" color=\"#5CC05C\">\n  <view name=\"search\" default=\"true\" />\n  <view name=\"analytics_workspace\" />\n  <view name=\"datasets\" />\n  <view name=\"reports\" />\n  <view name=\"alerts\" />\n  <view name=\"dashboards\" />\n</nav>",
+"name": "default",
+"owner": "nobody",
+"sharing": "app"
+}

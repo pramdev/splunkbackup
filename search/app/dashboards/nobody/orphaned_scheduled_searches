@@ -1,0 +1,7 @@
+{
+"eai:data": "<dashboard version=\"1.1\" hideEdit=\"True\">\n  <label>Orphaned Scheduled Searches, Reports, and Alerts</label>\n  <row>\n    <panel>\n      <html>\n        <p>These are saved scheduled searches, reports, and alerts with deactivated owners.</p>\n        <p>The scheduler cannot run orphaned scheduled searches. Review these items and disable, delete, or reassign them to a new owner.</p>\n        <a class=\"external\" href=\"/help?location=learnmore.orphaned_searches\" target=\"_blank\">Learn more</a>\n      </html>\n    </panel>\n  </row>\n  <row>\n    <panel>\n      <title>List of Orphaned Scheduled Searches, Reports, and Alerts</title>\n      <table>\n          <search ref=\"Orphaned scheduled searches\" />\n      </table>\n    </panel>\n  </row>\n</dashboard>",
+"eai:type": "views",
+"name": "orphaned_scheduled_searches",
+"owner": "nobody",
+"sharing": "app"
+}

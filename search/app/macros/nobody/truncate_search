@@ -1,0 +1,9 @@
+{
+"definition": "eval search=if(length(search) > 150, substr(search, 0, 150) + \"...\", search)",
+"disabled": "0",
+"eai:appName": "search",
+"eai:userName": "nobody",
+"name": "truncate_search",
+"owner": "nobody",
+"sharing": "app"
+}

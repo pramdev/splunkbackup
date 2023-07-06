@@ -1,0 +1,6 @@
+{
+"authentication": "enabled",
+"name": "eventtype=awsmultipleloginfailure",
+"owner": "admin",
+"sharing": "user"
+}

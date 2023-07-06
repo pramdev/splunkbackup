@@ -1,0 +1,10 @@
+{
+"definition": "convert timeformat=\"%Y-%m-%dT%H:%M:%S\" ctime($field$)",
+"disabled": "0",
+"eai:appName": "search",
+"eai:userName": "nobody",
+"iseval": "0",
+"name": "security_content_ctime",
+"owner": "admin",
+"sharing": "global"
+}

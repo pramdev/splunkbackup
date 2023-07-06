@@ -1,0 +1,9 @@
+{
+"name": "useragent",
+"origName": "splunk_web_service : EXTRACT-useragent",
+"owner": "nobody",
+"sharing": "global",
+"stanza": "splunk_web_service",
+"type": "EXTRACT",
+"value": "userAgent=(?P<browser>[^ (]+)"
+}

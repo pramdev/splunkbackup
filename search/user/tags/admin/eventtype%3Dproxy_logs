@@ -1,0 +1,6 @@
+{
+"name": "eventtype=proxy_logs",
+"owner": "admin",
+"sharing": "user",
+"web": "enabled"
+}

@@ -1,0 +1,9 @@
+{
+"definition": "`audit_searchlocal(\"search_id!=rt_*\")`",
+"disabled": "0",
+"eai:appName": "search",
+"eai:userName": "nobody",
+"name": "audit_searchlocal",
+"owner": "nobody",
+"sharing": "app"
+}

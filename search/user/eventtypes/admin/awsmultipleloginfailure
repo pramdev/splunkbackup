@@ -1,0 +1,9 @@
+{
+"color": "none",
+"name": "awsmultipleloginfailure",
+"owner": "admin",
+"priority": "1",
+"search": "host=\"awsmultipleloginfailure\" index=\"aws\" sourcetype=\"_json\"",
+"sharing": "user",
+"tags": "\n          "
+}

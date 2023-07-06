@@ -1,0 +1,9 @@
+{
+"definition": "rex \"search='(?<search>.*?)', autojoin\"",
+"disabled": "0",
+"eai:appName": "search",
+"eai:userName": "nobody",
+"name": "audit_rexsearch",
+"owner": "nobody",
+"sharing": "app"
+}

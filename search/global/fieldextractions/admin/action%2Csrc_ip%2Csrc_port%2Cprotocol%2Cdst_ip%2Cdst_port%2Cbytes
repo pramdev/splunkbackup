@@ -1,0 +1,9 @@
+{
+"name": "action,src_ip,src_port,protocol,dst_ip,dst_port,bytes",
+"origName": "csv : EXTRACT-action,src_ip,src_port,protocol,dst_ip,dst_port,bytes",
+"owner": "admin",
+"sharing": "global",
+"stanza": "csv",
+"type": "EXTRACT",
+"value": "^[^=\\n]*=(?P<action>[^ ]+) src_ip=(?P<src_ip>[^ ]+)\\s+\\w+_\\w+=(?P<src_port>\\d+)\\s+\\w+=(?P<protocol>\\w+)[^=\\n]*=(?P<dst_ip>[^ ]+)[^=\\n]*=(?P<dst_port>\\d+) bytes=(?P<bytes>\\d+)"
+}

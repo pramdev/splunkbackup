@@ -1,0 +1,7 @@
+{
+"fields_list": "country,region_wb,region_un,subregion,continent,iso2,iso3",
+"filename": "geo_attr_countries.csv",
+"name": "geo_attr_countries",
+"owner": "nobody",
+"sharing": "global"
+}

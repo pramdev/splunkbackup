@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"dashboard.html\" stylesheet=\"dashboard2.css\" isDashboard=\"False\" type=\"redirect\" target=\"search\">\n  <label>Summary</label>\n</view>",
+"eai:type": "views",
+"name": "dashboard_live",
+"owner": "nobody",
+"sharing": "app"
+}

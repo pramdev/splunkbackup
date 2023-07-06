@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"pages/blank.html\" type=\"html\" isDashboard=\"False\">\n    <label>Live Tail</label>\n</view>",
+"eai:type": "views",
+"name": "live_tail",
+"owner": "nobody",
+"sharing": "app"
+}

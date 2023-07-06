@@ -1,0 +1,7 @@
+{
+"communicate": "enabled",
+"name": "eventtype=fw_logs",
+"network": "enabled",
+"owner": "admin",
+"sharing": "user"
+}

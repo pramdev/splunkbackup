@@ -1,0 +1,7 @@
+{
+"eai:data": "<view isVisible=\"false\" template=\"builder.html\" displayView=\"report_builder_display\" decomposeIntentions=\"true\" isDashboard=\"False\" type=\"redirect\" target=\"search\"> \n  <label>Report Builder</label>\n</view>",
+"eai:type": "views",
+"name": "report_builder_define_data",
+"owner": "nobody",
+"sharing": "global"
+}

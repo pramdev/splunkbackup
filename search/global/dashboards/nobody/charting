@@ -1,0 +1,7 @@
+{
+"eai:data": "<view template=\"builder.html\" onunloadCancelJobs=\"False\" type=\"redirect\" target=\"search\" isVisible=\"False\" isDashboard=\"False\">\n  <label>Advanced Charting</label>\n</view>",
+"eai:type": "views",
+"name": "charting",
+"owner": "nobody",
+"sharing": "global"
+}

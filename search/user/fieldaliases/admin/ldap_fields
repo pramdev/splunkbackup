@@ -1,0 +1,12 @@
+{
+"alias.id.orig_h": "src_ip",
+"alias.id.orig_p": "src_port",
+"alias.id.resp_h": "dest_ip",
+"alias.id.resp_p": "dest_port",
+"name": "ldap_fields",
+"origName": "host::ldap : FIELDALIAS-ldap_fields",
+"overwrite": "0",
+"owner": "admin",
+"sharing": "user",
+"stanza": "host::ldap"
+}

@@ -1,0 +1,7 @@
+{
+"eai:data": "<?xml version=\"1.0\"?>\n<view template=\"pages/search.html\" type=\"html\" isDashboard=\"False\">\n    <label>Search</label>\n</view>",
+"eai:type": "views",
+"name": "search",
+"owner": "nobody",
+"sharing": "global"
+}

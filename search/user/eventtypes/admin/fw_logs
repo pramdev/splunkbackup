@@ -1,0 +1,9 @@
+{
+"color": "none",
+"name": "fw_logs",
+"owner": "admin",
+"priority": "1",
+"search": "index=eventgen_fw",
+"sharing": "user",
+"tags": "\n          "
+}
