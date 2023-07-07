@@ -86,7 +86,7 @@
 "schedule_as": "auto",
 "schedule_priority": "default",
 "schedule_window": "0",
-"search": "(index=eventgen_fw OR index=\"eventgen_apache_access\" OR index=\"eventgen_squid_proxy\")  earliest=-1d\n| stats count by index source sourcetype",
+"search": "index=eventgen_fw earliest=-1d\n| stats count by index source sourcetype",
 "sharing": "app",
 "skip_scheduled_realtime_idxc": "0"
 }
