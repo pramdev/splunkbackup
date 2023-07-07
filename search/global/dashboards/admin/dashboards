@@ -2,6 +2,6 @@
 "eai:data": "<?xml version=\"1.0\"?>\n<view template=\"pages/app.html\" type=\"html\" isDashboard=\"False\">\n    <label>Dashboards</label>\n</view>",
 "eai:type": "views",
 "name": "dashboards",
-"owner": "nobody",
+"owner": "admin",
 "sharing": "global"
 }
