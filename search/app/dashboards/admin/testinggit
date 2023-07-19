@@ -1,5 +1,5 @@
 {
-"eai:data": "<dashboard version=\"1.1\">\n  <label>testinggit</label>\n  <row>\n    <panel>\n      <table>\n        <search>\n          <query>index=eventgen_fw OR index=\"eventgen_squid_proxy\" OR index=\"eventgen_apache_access\" \n| stats count by index source sourcetype</query>\n          <earliest>-30d@d</earliest>\n          <latest>now</latest>\n          <sampleRatio>1</sampleRatio>\n        </search>\n        <option name=\"drilldown\">none</option>\n        <option name=\"refresh.display\">progressbar</option>\n      </table>\n    </panel>\n  </row>\n</dashboard>",
+"eai:data": "<dashboard version=\"1.1\">\n  <label>testinggit</label>\n  <row>\n    <panel>\n      <table>\n        <search>\n          <query>index=eventgen_fw OR index=\"eventgen_squid_proxy\" OR index=\"eventgen_apache_access\" \n| stats count by index source</query>\n          <earliest>-30d@d</earliest>\n          <latest>now</latest>\n          <sampleRatio>1</sampleRatio>\n        </search>\n        <option name=\"drilldown\">none</option>\n        <option name=\"refresh.display\">progressbar</option>\n      </table>\n    </panel>\n  </row>\n</dashboard>",
 "eai:type": "views",
 "name": "testinggit",
 "owner": "admin",
