@@ -4,6 +4,6 @@
 "owner": "admin",
 "priority": "1",
 "search": "index IN (eventgen_fw,eventgen_squid_proxy)",
-"sharing": "user",
+"sharing": "app",
 "tags": "\n          "
 }
