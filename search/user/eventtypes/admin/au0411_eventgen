@@ -1,0 +1,9 @@
+{
+"color": "none",
+"name": "au0411_eventgen",
+"owner": "admin",
+"priority": "1",
+"search": "index IN (eventgen_fw,eventgen_squid_proxy)",
+"sharing": "user",
+"tags": "\n          "
+}
