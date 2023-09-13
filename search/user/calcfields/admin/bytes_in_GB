@@ -1,0 +1,8 @@
+{
+"name": "bytes_in_GB",
+"origName": "source::firewall_demo.csv : EVAL-bytes_in_GB",
+"owner": "admin",
+"sharing": "user",
+"stanza": "source::firewall_demo.csv",
+"value": "bytes/1024"
+}

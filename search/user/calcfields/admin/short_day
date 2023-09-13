@@ -1,0 +1,8 @@
+{
+"name": "short_day",
+"origName": "source::firewall_demo.csv : EVAL-short_day",
+"owner": "admin",
+"sharing": "user",
+"stanza": "source::firewall_demo.csv",
+"value": "substr(date_wday,1,3)"
+}
