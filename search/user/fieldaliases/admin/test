@@ -1,0 +1,9 @@
+{
+"alias.field1": "field2",
+"name": "test",
+"origName": "my:sourcetype : FIELDALIAS-test",
+"overwrite": "0",
+"owner": "admin",
+"sharing": "user",
+"stanza": "my:sourcetype"
+}
